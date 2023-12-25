@@ -1,0 +1,29 @@
+<resources>
+    <!-- TODO 1 - Your App Name -->
+    <string name="app_name" translatable="false">Image AI Creator</string>
+
+    <!-- Error -->
+    <string name="prompt_policy_error">The entered phrase is prohibited by AI policies</string>
+    <string name="generic_error">Unable to generate this image</string>
+    <string name="timeout_error">Image not found or internet connection issues</string>
+
+    <!-- Add Image -->
+    <string name="add_image_dialog_title">Generate new AI image</string>
+    <string name="add_image_dialog_content">Use a sentence to generate the desired image, for example: A red cat driving a car. If you want to generate images of a cat driving a car</string>
+    <string name="add_image_dialog_positive_button">generate</string>
+    <string name="add_image_dialog_negative_button">cancel</string>
+    <string name="add_image_dialog_edt">Prompt to generate image</string>
+    <string name="add_image_dialog_dropdown">Image size</string>
+    <string name="add_image_qt_edt">Number of images to generate (max: %s)</string>
+    <string name="add_image_qt_edt_error">You can only generate between 1 and %s of images</string>
+    <!-- Contextual Menu -->
+    <string name="add_image_contextual_menu_remove">Remove</string>
+
+    <string name="remove_image_dialog_title">Do you want to remove this image?</string>
+    <string name="remove_image_dialog_positive_button">remove</string>
+    <string name="remove_image_dialog_negative_button">cancel</string>
+
+    <!-- Admob -->
+    <!-- TODO 2.1 - Replace by Your Banner Ad Unit -->
+    <string name="admob_banner_bottom_adunit" translatable="false">ca-app-pub-xxxxxxxx</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Error -->
+    <string name="prompt_policy_error">A frase informada é proibida pelas políticas da IA</string>
+    <string name="generic_error">Não foi possível gerar esta imagem</string>
+    <string name="timeout_error">Imagem não encontrada ou problemas de conexão com a internet</string>
+
+    <!-- Add Image -->
+    <string name="add_image_dialog_title">Gerar nova imagem de IA</string>
+    <string name="add_image_dialog_content">Use uma frase para gerar a imagem desejada, por exemplo: A red cat driving a car. Caso queira gerar imagems de um gato dirigindo um carro</string>
+    <string name="add_image_dialog_positive_button">gerar</string>
+    <string name="add_image_dialog_negative_button">cancelar</string>
+    <string name="add_image_dialog_edt">Prompt para gerar imagem</string>
+    <string name="add_image_dialog_dropdown">Tamanho da imagem</string>
+    <string name="add_image_qt_edt">Quantidade de imagens para gerar (máx: %s)</string>
+    <string name="add_image_qt_edt_error">Você só pode gerar uma quantidade entre 1 e %s de imagens</string>
+    <!-- Contextual Menu -->
+    <string name="add_image_contextual_menu_remove">Remover</string>
+
+    <string name="remove_image_dialog_title">Deseja remove esta imagem?</string>
+    <string name="remove_image_dialog_positive_button">remover</string>
+    <string name="remove_image_dialog_negative_button">cancelar</string>
+</resources>
